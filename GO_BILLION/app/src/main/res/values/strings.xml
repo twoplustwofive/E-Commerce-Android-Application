@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GO_BILLION</string>
+    <string name="title_home">STORE</string>
+    <string name="title_dashboard">ADD PRODUCT</string>
+    <string name="title_notifications">MY WISH LIST</string>
+
+    <string-array name="category">
+        <item>All</item>
+        <item>Home Care</item>
+        <item>Cosmetics</item>
+        <item>Apparel</item>
+    </string-array>
+</resources>
